@@ -1,1 +1,2 @@
-0x00-python-hello_world task and ther solutions
+0x00-python-hello-world
+providing solutions to the problems
